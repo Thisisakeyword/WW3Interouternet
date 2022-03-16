@@ -1,4 +1,4 @@
-# WW3Interouternet
+# Web3Interouternet
 This is a repository of an NFT future project - Inter-outer.net
 
 CONCEPT DRAW MINDMAP 5 PROFFESIONAL
